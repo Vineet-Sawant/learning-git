@@ -1,2 +1,4 @@
 this is vineet
 Added second line
+
+git -am command
